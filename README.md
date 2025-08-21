@@ -1,2 +1,2 @@
-# SAM-User-Engagement-Analysis-
+# SAM-User-Engagement-Analysis
 Snowflake User Engagement Analysis  
